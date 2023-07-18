@@ -16,18 +16,29 @@ const DataComponent = () => {
 
     fetchData();
   }, []);
-
-  return (
-      <div>
-        <h2>User Data</h2>
-        {data.map((user) => (
-          <div key={user.id}>
-            <h3>{user.name}</h3>
-            <p>{user.email}</p>
-            <p>{user.phone}</p>
-          </div>
-        ))}
+    return (
+      <div className="container">
+        <h2 className="mt-4">User Data</h2>
+        <table className="table table-striped">
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Email</th>
+              <th>Phone</th>
+            </tr>
+          </thead>
+          <tbody>
+            {data.map((user) => (
+              <tr key={user.id}>
+                <td>{user.name}</td>
+                <td>{user.email}</td>
+                <td>{user.phone}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
       </div>
-    ); }    
+    );
+  };
 
 export default DataComponent;
