@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/Final_Assessment_Test.github.io/static/css/main.52600e70.css",
-    "main.js": "/Final_Assessment_Test.github.io/static/js/main.45250ee9.js",
+    "main.js": "/Final_Assessment_Test.github.io/static/js/main.f55201d0.js",
     "static/js/787.fd2f9158.chunk.js": "/Final_Assessment_Test.github.io/static/js/787.fd2f9158.chunk.js",
+    "static/media/soulshotzzzz.png": "/Final_Assessment_Test.github.io/static/media/soulshotzzzz.7f753971066bbb29c89c.png",
     "index.html": "/Final_Assessment_Test.github.io/index.html",
     "main.52600e70.css.map": "/Final_Assessment_Test.github.io/static/css/main.52600e70.css.map",
-    "main.45250ee9.js.map": "/Final_Assessment_Test.github.io/static/js/main.45250ee9.js.map",
+    "main.f55201d0.js.map": "/Final_Assessment_Test.github.io/static/js/main.f55201d0.js.map",
     "787.fd2f9158.chunk.js.map": "/Final_Assessment_Test.github.io/static/js/787.fd2f9158.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52600e70.css",
-    "static/js/main.45250ee9.js"
+    "static/js/main.f55201d0.js"
   ]
 }
