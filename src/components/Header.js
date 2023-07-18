@@ -1,4 +1,5 @@
 import React from 'react';
+import logo from '../soulshotzzzz.png'
 
 const headerStyle = {
   backgroundColor: '#333',
@@ -9,8 +10,8 @@ const headerStyle = {
 const Header = () => {
   return (
     <header style={headerStyle}>
-      <h1 style={{ textAlign: 'center' }}>Final Assessment Test</h1>
-    </header>
+<img src="https://upload.wikimedia.org/wikipedia/en/3/3a/Lovely_Professional_University_logo.png" height={100}/> <center>Final Assessment Test</center> 
+ </header>
   );
 };
 
