@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/final_assessment_test.github.io/static/css/main.52600e70.css",
-    "main.js": "/final_assessment_test.github.io/static/js/main.836a5e42.js",
-    "static/js/787.fd2f9158.chunk.js": "/final_assessment_test.github.io/static/js/787.fd2f9158.chunk.js",
-    "index.html": "/final_assessment_test.github.io/index.html",
-    "main.52600e70.css.map": "/final_assessment_test.github.io/static/css/main.52600e70.css.map",
-    "main.836a5e42.js.map": "/final_assessment_test.github.io/static/js/main.836a5e42.js.map",
-    "787.fd2f9158.chunk.js.map": "/final_assessment_test.github.io/static/js/787.fd2f9158.chunk.js.map"
+    "main.css": "/Final_Assessment_Test.github.io/static/css/main.52600e70.css",
+    "main.js": "/Final_Assessment_Test.github.io/static/js/main.45250ee9.js",
+    "static/js/787.fd2f9158.chunk.js": "/Final_Assessment_Test.github.io/static/js/787.fd2f9158.chunk.js",
+    "index.html": "/Final_Assessment_Test.github.io/index.html",
+    "main.52600e70.css.map": "/Final_Assessment_Test.github.io/static/css/main.52600e70.css.map",
+    "main.45250ee9.js.map": "/Final_Assessment_Test.github.io/static/js/main.45250ee9.js.map",
+    "787.fd2f9158.chunk.js.map": "/Final_Assessment_Test.github.io/static/js/787.fd2f9158.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52600e70.css",
-    "static/js/main.836a5e42.js"
+    "static/js/main.45250ee9.js"
   ]
 }
